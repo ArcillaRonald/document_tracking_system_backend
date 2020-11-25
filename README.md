@@ -3,17 +3,17 @@ SE project
 
 # environment variables
 
-SERVER variables
+SERVER env variable =
 PORT
 
-DATABASE variables
-HOST
-USER
-PASSWORD
-DB
+DATABASE env variables =
+HOST,
+USER,
+PASSWORD,
+DB,
 
-KICKBOX variable
+KICKBOX env variable =
 KICKBOX_API_KEY
 
-AUTH variable
+AUTH env variable =
 AUTH SECRET KEY
